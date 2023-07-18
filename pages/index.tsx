@@ -6,57 +6,28 @@ const Home: NextPage = () => {
   const products = [
     {
       id: 1,
-      name: "Rosemary & Rhubarb",
       price: 10,
-      imageSrc:
-        "https://i.ibb.co/cgh9kLW/photo1687716388.jpg",
-      imageAlt:
-        "Rosemary & Rhubarb",
+      name: "Digit Pack",
+      imageSrc: "https://i.ibb.co/vqcdMj9/photo1689679418.jpg",
+      imageAlt: "Digit Pack",
     },
     {
       id: 2,
-      name: "Christmas Punch",
+      name: "SEO & Digital Marketing",
       price: 10,
       imageSrc:
-        "https://i.ibb.co/fSHCrZL/photo1687716407.jpg",
+        "https://i.ibb.co/3hf8fgH/photo1689679432.jpg",
       imageAlt:
-        "Christmas Punch",
+        "SEO & Digital Marketing",
     },
     {
       id: 3,
-      name: "Eau de Lavender",
+      name: "Digital Marketing",
       price: 10,
       imageSrc:
-        "https://i.ibb.co/WWS3QmM/photo1687716450.jpg",
+        "https://i.ibb.co/fqj84wb/photo1689679446.jpg",
       imageAlt:
-        "Eau de Lavender",
-    },
-    {
-      id: 4,
-      name: "Rhubarb Fix",
-      price: 10,
-      imageSrc:
-        "https://i.ibb.co/yNjYrQh/photo1687716464.jpg",
-      imageAlt:
-        "Rhubarb Fix",
-    },
-    {
-      id: 5,
-      name: "Butter & Smoke",
-      price: 10,
-      imageSrc:
-        "https://i.ibb.co/8NgnzMr/photo1687716675.jpg",
-      imageAlt:
-        "Butter & Smoke",
-    },
-    {
-      id: 6,
-      name: "Cucumber & Rose Collins",
-      price: 10,
-      imageSrc:
-        "https://i.ibb.co/pRPDgr0/photo1687717575.jpg",
-      imageAlt:
-        "Cucumber & Rose Collins",
+        "Digital Marketing",
     },
   ];
   const router = useRouter();
