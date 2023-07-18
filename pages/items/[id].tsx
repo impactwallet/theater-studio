@@ -19,66 +19,33 @@ const products = [
   {
     id: 1,
     price: 10,
-    orgId: "649972ee05c1f5be86c5e86c",
-    wallet: "fZRx7XZb22rEFNCrD8rnAoFHkNDvXV6p1mSPadusUQR",
-    name: "Rosemary & Rhubarb",
-    imageSrc: "https://i.ibb.co/cgh9kLW/photo1687716388.jpg",
-    imageAlt: "Rosemary & Rhubarb",
+    orgId: "64b674aeef89792ab2227487",
+    wallet: "3KUZHtps8WmFZoyr9PKYRBfpJ1WgSxxxi9pXDyeMeBUB",
+    name: "Digit Pack",
+    imageSrc: "https://i.ibb.co/vqcdMj9/photo1689679418.jpg",
+    imageAlt: "Digit Pack",
   },
   {
     id: 2,
-    name: "Christmas Punch",
+    name: "SEO & Digital Marketing",
     price: 10,
     imageSrc:
-      "https://i.ibb.co/fSHCrZL/photo1687716407.jpg",
+      "https://i.ibb.co/3hf8fgH/photo1689679432.jpg",
     imageAlt:
-      "Christmas Punch",
-    orgId: "649972ee05c1f5be86c5e86c",
-    wallet: "fZRx7XZb22rEFNCrD8rnAoFHkNDvXV6p1mSPadusUQR",
+      "SEO & Digital Marketing",
+    orgId: "64b674aeef89792ab2227487",
+    wallet: "3KUZHtps8WmFZoyr9PKYRBfpJ1WgSxxxi9pXDyeMeBUB",
   },
   {
     id: 3,
-    name: "Eau de Lavender",
+    name: "Digital Marketing",
     price: 10,
     imageSrc:
-      "https://i.ibb.co/WWS3QmM/photo1687716450.jpg",
+      "https://i.ibb.co/fqj84wb/photo1689679446.jpg",
     imageAlt:
-      "Eau de Lavender",
-    orgId: "649972ee05c1f5be86c5e86c",
-    wallet: "fZRx7XZb22rEFNCrD8rnAoFHkNDvXV6p1mSPadusUQR",
-  },
-  {
-    id: 4,
-    name: "Rhubarb Fix",
-    price: 10,
-    imageSrc:
-      "https://i.ibb.co/yNjYrQh/photo1687716464.jpg",
-    imageAlt:
-      "Rhubarb Fix",
-    orgId: "649972ee05c1f5be86c5e86c",
-    wallet: "fZRx7XZb22rEFNCrD8rnAoFHkNDvXV6p1mSPadusUQR",
-  },
-  {
-    id: 5,
-    name: "Butter & Smoke",
-    price: 10,
-    imageSrc:
-      "https://i.ibb.co/8NgnzMr/photo1687716675.jpg",
-    imageAlt:
-      "Butter & Smoke",
-    orgId: "649972ee05c1f5be86c5e86c",
-    wallet: "fZRx7XZb22rEFNCrD8rnAoFHkNDvXV6p1mSPadusUQR",
-  },
-  {
-    id: 6,
-    name: "Cucumber & Rose Collins",
-    price: 10,
-    imageSrc:
-      "https://i.ibb.co/pRPDgr0/photo1687717575.jpg",
-    imageAlt:
-      "Cucumber & Rose Collins",
-    orgId: "649972ee05c1f5be86c5e86c",
-    wallet: "fZRx7XZb22rEFNCrD8rnAoFHkNDvXV6p1mSPadusUQR",
+      "Digital Marketing",
+    orgId: "64b674aeef89792ab2227487",
+    wallet: "3KUZHtps8WmFZoyr9PKYRBfpJ1WgSxxxi9pXDyeMeBUB",
   },
 ];
 function classNames(...classes: any[]) {
