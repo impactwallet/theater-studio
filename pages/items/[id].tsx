@@ -19,8 +19,8 @@ const products = [
   {
     id: 1,
     price: 10,
-    orgId: "64b674aeef89792ab2227487",
-    wallet: "3KUZHtps8WmFZoyr9PKYRBfpJ1WgSxxxi9pXDyeMeBUB",
+    orgId: "64b684f3c5129c853cb29c66",
+    wallet: "Gpda5Mkjnje2J1WrPjxJDphoKPNrXA33Sf3S2K5WLnna",
     name: "Digit Pack",
     imageSrc: "https://i.ibb.co/vqcdMj9/photo1689679418.jpg",
     imageAlt: "Digit Pack",
@@ -33,8 +33,8 @@ const products = [
       "https://i.ibb.co/3hf8fgH/photo1689679432.jpg",
     imageAlt:
       "SEO & Digital Marketing",
-    orgId: "64b674aeef89792ab2227487",
-    wallet: "3KUZHtps8WmFZoyr9PKYRBfpJ1WgSxxxi9pXDyeMeBUB",
+    orgId: "64b684f3c5129c853cb29c66",
+    wallet: "Gpda5Mkjnje2J1WrPjxJDphoKPNrXA33Sf3S2K5WLnna",
   },
   {
     id: 3,
@@ -44,8 +44,8 @@ const products = [
       "https://i.ibb.co/fqj84wb/photo1689679446.jpg",
     imageAlt:
       "Digital Marketing",
-    orgId: "64b674aeef89792ab2227487",
-    wallet: "3KUZHtps8WmFZoyr9PKYRBfpJ1WgSxxxi9pXDyeMeBUB",
+    orgId: "64b684f3c5129c853cb29c66",
+    wallet: "Gpda5Mkjnje2J1WrPjxJDphoKPNrXA33Sf3S2K5WLnna",
   },
 ];
 function classNames(...classes: any[]) {
