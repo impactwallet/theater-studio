@@ -22,8 +22,8 @@ const products = [
     name: "Stage Speech",
     imageSrc: "https://i.ibb.co/PwKNXjC/photo-5328013012541492171-y.jpg",
     imageAlt: "Stage Speech",
-    orgId: '',
-    wallet: '',
+    orgId: '64be540d0c338d1510cc944c',
+    wallet: 'E53d8T1s1mV6NDsK6GbPV6mH9TUfsegWaj1ooz9XXbj1',
   },
   {
     id: 2,
@@ -33,8 +33,8 @@ const products = [
       "https://i.ibb.co/wKXy3RR/photo-5328013012541492172-y.jpg",
     imageAlt:
       "Stage Movement",
-    orgId: '',
-    wallet: '',
+    orgId: '64be540d0c338d1510cc944c',
+    wallet: 'E53d8T1s1mV6NDsK6GbPV6mH9TUfsegWaj1ooz9XXbj1',
   },
   {
     id: 3,
@@ -44,8 +44,8 @@ const products = [
       "https://i.ibb.co/WsMbs73/photo-5328013012541492173-y.jpg",
     imageAlt:
       "Stage Signing",
-    orgId: '',
-    wallet: '',
+    orgId: '64be540d0c338d1510cc944c',
+    wallet: 'E53d8T1s1mV6NDsK6GbPV6mH9TUfsegWaj1ooz9XXbj1',
   },
 ];
 function classNames(...classes: any[]) {
