@@ -19,33 +19,33 @@ const products = [
   {
     id: 1,
     price: 10,
-    orgId: "64b684f3c5129c853cb29c66",
-    wallet: "Gpda5Mkjnje2J1WrPjxJDphoKPNrXA33Sf3S2K5WLnna",
-    name: "Digit Pack",
-    imageSrc: "https://i.ibb.co/vqcdMj9/photo1689679418.jpg",
-    imageAlt: "Digit Pack",
+    name: "Stage Speech",
+    imageSrc: "https://i.ibb.co/PwKNXjC/photo-5328013012541492171-y.jpg",
+    imageAlt: "Stage Speech",
+    orgId: '',
+    wallet: '',
   },
   {
     id: 2,
-    name: "SEO & Digital Marketing",
+    name: "Stage Movement",
     price: 10,
     imageSrc:
-      "https://i.ibb.co/3hf8fgH/photo1689679432.jpg",
+      "https://i.ibb.co/wKXy3RR/photo-5328013012541492172-y.jpg",
     imageAlt:
-      "SEO & Digital Marketing",
-    orgId: "64b684f3c5129c853cb29c66",
-    wallet: "Gpda5Mkjnje2J1WrPjxJDphoKPNrXA33Sf3S2K5WLnna",
+      "Stage Movement",
+    orgId: '',
+    wallet: '',
   },
   {
     id: 3,
-    name: "Digital Marketing",
+    name: "Stage Signing",
     price: 10,
     imageSrc:
-      "https://i.ibb.co/fqj84wb/photo1689679446.jpg",
+      "https://i.ibb.co/WsMbs73/photo-5328013012541492173-y.jpg",
     imageAlt:
-      "Digital Marketing",
-    orgId: "64b684f3c5129c853cb29c66",
-    wallet: "Gpda5Mkjnje2J1WrPjxJDphoKPNrXA33Sf3S2K5WLnna",
+      "Stage Signing",
+    orgId: '',
+    wallet: '',
   },
 ];
 function classNames(...classes: any[]) {
