@@ -7,27 +7,27 @@ const Home: NextPage = () => {
     {
       id: 1,
       price: 10,
-      name: "Digit Pack",
-      imageSrc: "https://i.ibb.co/vqcdMj9/photo1689679418.jpg",
-      imageAlt: "Digit Pack",
+      name: "Stage Speech",
+      imageSrc: "https://i.ibb.co/PwKNXjC/photo-5328013012541492171-y.jpg",
+      imageAlt: "Stage Speech",
     },
     {
       id: 2,
-      name: "SEO & Digital Marketing",
+      name: "Stage Movement",
       price: 10,
       imageSrc:
-        "https://i.ibb.co/3hf8fgH/photo1689679432.jpg",
+        "https://i.ibb.co/wKXy3RR/photo-5328013012541492172-y.jpg",
       imageAlt:
-        "SEO & Digital Marketing",
+        "Stage Movement",
     },
     {
       id: 3,
-      name: "Digital Marketing",
+      name: "Stage Signing",
       price: 10,
       imageSrc:
-        "https://i.ibb.co/fqj84wb/photo1689679446.jpg",
+        "https://i.ibb.co/WsMbs73/photo-5328013012541492173-y.jpg",
       imageAlt:
-        "Digital Marketing",
+        "Stage Signing",
     },
   ];
   const router = useRouter();
@@ -36,7 +36,7 @@ const Home: NextPage = () => {
       <div className="bg-white">
         <div className="mx-auto max-w-7xl overflow-hidden py-8 px-4 sm:py-24 sm:px-6 lg:px-8">
         <div className="flex flex-col text-center w-full mb-8">
-      <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900">The best slides for the best prices from the best presentaion gurus</h1>
+      <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900">The best scenic courses by famous actors for the best prices</h1>
     </div>
           <div className="grid  mx-auto gap-y-10 gap-x-30 sm:grid-cols-2 lg:grid-cols-3 lg:gap-x-8">
             {products.map((product) => (
